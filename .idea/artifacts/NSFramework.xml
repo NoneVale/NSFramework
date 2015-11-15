@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NSFramework">
+    <output-path>$USER_HOME$/Desktop/Nighthawk Survival/plugins</output-path>
+    <root id="archive" name="NSFramework.jar">
+      <element id="module-output" name="NSFramework" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
