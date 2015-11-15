@@ -15,9 +15,6 @@ import java.util.UUID;
 import java.util.logging.ConsoleHandler;
 import java.util.logging.Logger;
 
-/**
- * Created by NoneVale on 11/5/2015.
- */
 public class Engine {
 
     private Engine engine;

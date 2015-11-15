@@ -1,8 +1,5 @@
 package com.nighthawksurvival.engine.uid;
 
-/**
- * Created by NoneVale on 11/14/2015.
- */
 public class GUIDType {
 
     public static GUIDType PLAYER = new GUIDType("PLAYER");

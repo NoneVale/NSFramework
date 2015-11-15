@@ -2,9 +2,6 @@ package com.nighthawksurvival.engine.key;
 
 import com.nighthawksurvival.engine.Engine;
 
-/**
- * Created by NoneVale on 11/5/2015.
- */
 public class Key {
 
     private Key key;

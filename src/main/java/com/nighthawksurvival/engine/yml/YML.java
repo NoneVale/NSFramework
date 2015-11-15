@@ -5,9 +5,6 @@ import org.bukkit.configuration.file.YamlConfiguration;
 
 import java.io.File;
 
-/**
- * Created by NoneVale on 11/14/2015.
- */
 public class YML {
 
     private File file;

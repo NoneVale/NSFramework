@@ -8,9 +8,6 @@ import com.nighthawksurvival.engine.json.JSONRegistry;
 import com.nighthawksurvival.engine.key.KeyManager;
 import com.nighthawksurvival.engine.key.KeyRegistry;
 
-/**
- * Created by NoneVale on 11/14/2015.
- */
 public class NSEngine {
 
     public static Engine getEngine() {

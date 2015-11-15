@@ -3,9 +3,6 @@ package com.nighthawksurvival.engine.uid;
 import com.nighthawksurvival.engine.Manager;
 import com.nighthawksurvival.engine.Registry;
 
-/**
- * Created by NoneVale on 11/5/2015.
- */
 public class GUIDManager extends Manager {
 
     @Override

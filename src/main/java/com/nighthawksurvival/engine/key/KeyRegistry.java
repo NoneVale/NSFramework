@@ -6,9 +6,6 @@ import com.nighthawksurvival.engine.Registry;
 
 import java.util.List;
 
-/**
- * Created by NoneVale on 11/6/2015.
- */
 public class KeyRegistry extends Registry {
 
     @Override

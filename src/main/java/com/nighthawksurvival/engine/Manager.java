@@ -3,9 +3,6 @@ package com.nighthawksurvival.engine;
 import com.nighthawksurvival.engine.key.Key;
 import com.nighthawksurvival.engine.registry.ManagerRegistry;
 
-/**
- * Created by NoneVale on 11/5/2015.
- */
 public class Manager {
 
     private Manager manager;

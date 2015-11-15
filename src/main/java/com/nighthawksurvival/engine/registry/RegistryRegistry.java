@@ -12,9 +12,6 @@ import com.nighthawksurvival.engine.yml.YMLRegistry;
 
 import java.util.List;
 
-/**
- * Created by NoneVale on 11/6/2015.
- */
 public class RegistryRegistry extends Registry {
 
     private List<Registry> registries = Lists.newArrayList();

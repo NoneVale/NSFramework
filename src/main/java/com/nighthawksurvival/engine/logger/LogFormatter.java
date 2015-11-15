@@ -6,9 +6,6 @@ import java.util.Date;
 import java.util.logging.Formatter;
 import java.util.logging.LogRecord;
 
-/**
- * Created by NoneVale on 11/6/2015.
- */
 public class LogFormatter extends Formatter {
 
     private final String format = "[%s| %s| NS]: %s \n";

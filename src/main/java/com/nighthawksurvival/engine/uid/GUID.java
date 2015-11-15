@@ -1,12 +1,7 @@
 package com.nighthawksurvival.engine.uid;
 
-import java.io.Serializable;
-import java.security.SecureRandom;
 import java.util.Random;
 
-/**
- * Created by NoneVale on 11/5/2015.
- */
 public class GUID {
 
     private String id;

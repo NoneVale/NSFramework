@@ -4,11 +4,6 @@ import com.nighthawksurvival.engine.Manager;
 import com.nighthawksurvival.engine.Registry;
 import org.bukkit.configuration.file.FileConfiguration;
 
-import java.io.File;
-
-/**
- * Created by NoneVale on 11/5/2015.
- */
 public class YMLManager extends Manager {
 
     public YML getYaml(String file, FileConfiguration config) {

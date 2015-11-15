@@ -13,9 +13,6 @@ import com.nighthawksurvival.engine.yml.YMLManager;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by NoneVale on 11/5/2015.
- */
 public class ManagerRegistry extends Registry {
 
     @Override

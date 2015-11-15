@@ -9,9 +9,6 @@ import org.bukkit.configuration.file.YamlConfiguration;
 import java.io.File;
 import java.util.List;
 
-/**
- * Created by NoneVale on 11/14/2015.
- */
 public class NSGuild {
 
     private String name;

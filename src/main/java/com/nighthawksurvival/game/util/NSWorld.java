@@ -5,9 +5,6 @@ import org.bukkit.Location;
 import org.bukkit.World;
 import org.bukkit.WorldCreator;
 
-/**
- * Created by NoneVale on 11/13/2015.
- */
 public class NSWorld {
 
     private World world;
